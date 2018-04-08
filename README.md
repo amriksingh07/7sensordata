@@ -1,5 +1,5 @@
 
-This data set consist 12 attributes based on which health insurance risk can be computed.
+This data set consist 16 attributes based on which health insurance risk can be computed.
 1) subject ID : Unique Identification number of a person
 2) Date of Reading: Date on which data was collected
 3) Time of Reading: Time on which data was collected
